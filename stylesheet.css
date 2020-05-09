@@ -1,0 +1,56 @@
+#header-nav{
+	background-color: #f6b319;
+  	border-radius: 0;
+  	border: 0;
+  	height :100px;
+}
+
+.navbar-brand{
+	padding-top: 25px;
+} 
+
+.navbar-brand h1 {
+	font-family: 'Trebuchet MS',serif;
+	text-align: left;
+	font-weight: bold;
+	clear:right;
+}
+
+.navbar-brand a:hover, .navbar-brand a:focus {
+  text-decoration: none;
+}
+
+#nav-list{
+	clear:both;
+	font-family : 'Comic Sans MS',sans-serif;
+	color:red;
+	text-align: center;
+	font-size: 1.6em;
+	margin-top:20px;
+	border:0;
+}
+
+#page-title{
+	text-align: center;
+	font-family: 'Trebuchet MS',serif;
+}
+
+#chicken-content header{
+	text-align: center;
+	font-size:1.3em;
+	font-weight: bold;
+	color:maroon;
+}
+
+#chicken-content{
+	border: 1px solid red;
+	overflow: auto;
+	padding: 20 20 20 20;
+	text-align: justify;
+	font-family: 'Times Roman',serif ;
+	font-size: 1.1em;
+	color:green;
+}
+#margin-main{
+	margin : 20px;
+}
